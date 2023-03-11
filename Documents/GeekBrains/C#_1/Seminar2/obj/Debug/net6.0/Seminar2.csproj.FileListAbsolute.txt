@@ -1,0 +1,15 @@
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/bin/Debug/net6.0/Seminar2
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/bin/Debug/net6.0/Seminar2.deps.json
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/bin/Debug/net6.0/Seminar2.runtimeconfig.json
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/bin/Debug/net6.0/Seminar2.dll
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/bin/Debug/net6.0/Seminar2.pdb
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.csproj.AssemblyReference.cache
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfoInputs.cache
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.AssemblyInfo.cs
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.csproj.CoreCompileInputs.cache
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.dll
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/refint/Seminar2.dll
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.pdb
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/Seminar2.genruntimeconfig.cache
+/Users/svatoslavsvetonosov/Documents/GeekBrains/C#_1/Seminar2/obj/Debug/net6.0/ref/Seminar2.dll
